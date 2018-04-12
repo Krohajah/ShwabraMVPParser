@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShwabraMVPParser</string>
+    <!--mock-->
+    <string name="item_fed_description_mock">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Maecenas id ornare ipsum. Curabitur id aliquet nisl. Integer dapibus, dolor consectetur bibendum semper,
+        justo enim tincidunt arcu, vitae feugiat metus odio eget velit. Phasellus vel turpis et nisi hendrerit
+        congue nec sed elit. Nullam placerat dolor in odio interdum, nec eleifend ex ultrices. Morbi vel est et
+        tortor posuere ornare id eu purus. Suspendisse vestibulum purus nunc, sed tincidunt mi luctus nec.
+        Sed congue sapien eu luctus viverra. Aenean maximus tincidunt turpis vel congue.
+        In id dolor volutpat, interdum sapien quis, volutpat sapien.</string>
+</resources>
